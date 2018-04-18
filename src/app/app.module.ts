@@ -12,6 +12,7 @@ import { TestComponent } from './components/test/test.component';
     TestComponent
   ],
   imports: [
+  
     BrowserModule
   ],
   providers: [],
